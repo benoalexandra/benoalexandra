@@ -50,4 +50,4 @@
 
 ## </> Coding Activity
 
-[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=iquasere)](https://github.com/stats-organization/github-stats-extended)
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=benoalexandra)](https://github.com/stats-organization/github-stats-extended)
