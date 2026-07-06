@@ -1,4 +1,4 @@
-# 🧬 Hi, I'm <INSERT SCIENCE-STAR NAME> 👨‍🔬👩‍🔬
+# 🧬 Hi, I'm Alexandra 👩‍🔬
 
 > "Turning biological chaos into structured data."
 
